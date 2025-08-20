@@ -1,0 +1,2 @@
+# Doc-Helper-AI-Powered-PDF-Question-Answering-App-RAG-Streamlit-LangChain-OpenAI-
+Doc Helper is a Streamlit application that leverages Retrieval-Augmented Generation (RAG) using LangChain and OpenAI to enable interactive question answering on uploaded PDF documents. Users can upload any PDF, and the app automatically processes, chunks, and embeds the content for semantic search. Ask questions about your document 
